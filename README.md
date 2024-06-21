@@ -1,16 +1,40 @@
-# calculator_app
+# Calculator App
 
-A new Flutter project.
+This project is a Flutter application that implements a simple yet powerful calculator with support for basic arithmetic operations and parentheses for complex expressions.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project serves as a foundation for building Flutter applications.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Basic Arithmetic Operations**: Addition, Subtraction, Multiplication, Division.
+- **Parentheses Support**: Allows grouping of operations with parentheses.
+- **Clear Input Options**: AC to clear all input, C to delete the last character.
+- **Responsive Design**: Optimized for various screen sizes.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Usage
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/kabarokore/calculatorapp.git
+    cd calculatorapp
+    ```
+
+2. **Install dependencies**:
+    ```bash
+    flutter pub get
+    ```
+
+3. **Run the app**:
+    ```bash
+    flutter run
+    ```
+
+## Example Expressions
+
+- **Simple Addition**:
+  - Input: `5 + 3`
+  - Result: `8`
+ 
+  - ![image](https://github.com/kabarokore/calculator-app/assets/93138670/22880258-3678-4b1f-a178-4a6e46cd086f)
